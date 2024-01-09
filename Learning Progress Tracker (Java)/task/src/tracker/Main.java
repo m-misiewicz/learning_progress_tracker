@@ -17,7 +17,7 @@ public class Main {
                 System.out.println("Bye!");
                 break;
             } else {
-                System.out.println("Error: unknown command!");
+                System.out.println("Error: unknown command! ");
             }
         }
         scanner.close();
